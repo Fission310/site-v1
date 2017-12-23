@@ -7,6 +7,7 @@
     <title>Stuy Fission</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/foundation-icons.css">
     <link rel="icon" type="image/jpg" href="img/fission.jpg">
   </head>
   <body>
@@ -28,38 +29,51 @@
     <div class="grid-container">
       <div class="grid-x grid-padding-x">
         <div class="large-12 cell">
-          <img class="thumbnail" src="img/team.jpg" alt="Stuy Fission 310">
-        </div>
-
-        <div class="callout">
-          <h3>Stuy Fission 310</h3>
-          <p>To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
-          <p>Once you've exhausted the fun in this document, you should check out:</p>
-          <div class="grid-x grid-padding-x">
-            <div class="large-4 medium-4 cell">
-              <p><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</p>
-            </div>
-            <div class="large-4 medium-4 cell">
-              <p><a href="http://zurb.com/university/code-skills">Foundation Code Skills</a><br />These online courses offer you a chance to better understand how Foundation works and how you can master it to create awesome projects.</p>
-            </div>
-            <div class="large-4 medium-4 cell">
-              <p><a href="http://foundation.zurb.com/forum">Foundation Forum</a><br />Join the Foundation community to ask a question or show off your knowlege.</p>
-            </div>
-          </div>
-          <div class="grid-x grid-padding-x">
-            <div class="large-4 medium-4 medium-push-2 cell">
-              <p><a href="http://github.com/zurb/foundation">Foundation on Github</a><br />Latest code, issue reports, feature requests and more.</p>
-            </div>
-            <div class="large-4 medium-4 medium-pull-2 cell">
-              <p><a href="https://twitter.com/ZURBfoundation">@zurbfoundation</a><br />Ping us on Twitter if you have questions. When you build something with this we'd love to see it (and send you a totally boss sticker).</p>
-            </div>
-          </div>
+          <img class="thumbnail" id="team_pic" src="img/team.jpg" alt="Stuy Fission 310" usemap="#tagmap">
         </div>
       </div>
+    </div>
+
+    <footer>
+      <div class="grid-container fluid">
+        <div class="grid-x grid-padding-x">
+          <div class="large-2 column"></div>
+          <div class="small-12 medium-12 large-auto column">
+            <h4>Contact</h4>
+            <hr>
+            <i class="fi-home"></i>&nbsp;Stuyvesant High School<br>
+            <i class="fi-address-book"></i>&nbsp;345 Chambers Street, New York, NY 10282<br>
+            <i class="fi-mail"></i>&nbsp;<a href="mailto:stuyfission@gmail.com">stuyfission@gmail.com</a><br>
+          </div>
+          <div class="small-12 medium-12 large-auto column">
+            <h4>Site Map</h4>
+            <hr>
+          </div>
+          <div class="small-12 medium-12 large-auto column">
+            <h4>Social Media</h4>
+            <hr>
+            <i class="fi-social-facebook"></i>&nbsp;<a href="https://www.facebook.com/stuyfission/">Stuy Fission</a><br>
+          </div>
+          <div class="large-2 column"></div>
+        </div>
+      </div>
+    </footer>
+
+    <map name="tagmap" id="tagmap">
+    </map>
+
+    <div class="reveal" id="ryan" data-reveal>
+      <h1>Ryan Siu</h1>
+      <h3 class="lead">Senior, Head of Software Engineering</h3>
+      <p>I am a senior in my fourth year on an FTC team at Stuyvesant High School. I joined Stuy Fusion 479 in my freshman year, but switched over to Stuy Fission 310 in my junior year. Currently, I am the Head of Software Engineering, and I work on writing code for the robot and this website. Robotics helped spark my passion in computer science, and has been a huge learning experience for me. Outside of robotics, I am the Head of Web Development for Stuyvesant's Honor Society, and I enjoy playing basketball and soccer on weekends.</p>
+      <button class="close-button" data-close aria-label="Close modal" type="button">
+        <span aria-hidden="true">&times;</span>
+      </button>
     </div>
 
     <script src="js/vendor/jquery.js"></script>
     <script src="js/vendor/foundation.js"></script>
     <script src="js/app.js"></script>
+
   </body>
 </html>

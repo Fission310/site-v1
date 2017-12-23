@@ -1,0 +1,40 @@
+body.is-reveal-open {
+    overflow: visible;
+}
+
+footer {
+    padding-top: 2em;
+    background-color: #222;
+    color: #ddd;
+}
+
+footer h4 {
+    color: #fff;
+}
+
+footer a:link, footer a:visited {
+    color: #ddd;
+}
+
+footer a:hover {
+    font-weight: bold;
+}
+
+footer .column {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+footer hr {
+    margin-top: 0.5em;
+}
+
+ul {
+    list-style: none;
+}
+
+i {
+    font-size: 1.3em;
+    margin-right: 0.5em;
+}
