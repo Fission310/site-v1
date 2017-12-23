@@ -20,7 +20,12 @@ var people = {
   'matthew': [600, 790, 60],
   'aleks': [716, 164, 40],
   'ish': [910, 322, 40],
-  'junming': [1818, 708, 64]
+  'junming': [1818, 708, 64],
+  'megan': [522, 388, 48],
+  'dario': [600, 330, 35],
+  'anthonyL': [1232, 346, 42],
+  'aaron': [1008, 318, 48],
+  'sam': [1430, 554, 42]
 }
 
 for (var person in people) {
