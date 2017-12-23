@@ -7,8 +7,8 @@ var tagmap = function() {
 var map = document.getElementById("tagmap");
 var img = document.getElementById("team_pic");
 
-var scaleX = img.width / 2048;
-var scaleY = img.height / 1365;
+var scaleX = (img.width+5) / 2048;
+var scaleY = (img.height+5) / 1365;
 
 var people = {
   'ryan': [1111, 666, 60],
@@ -35,7 +35,8 @@ for (var person in people) {
 
 var things = {
   'robot': [774, 1018, 1092, 1286],
-  'motivate': [958, 586, 1000, 720]
+  'motivate': [958, 586, 1000, 720],
+  'winning': [1428, 784, 1476, 974]
 }
 
 for (var thing in things) {
