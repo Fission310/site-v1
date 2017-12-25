@@ -1,3 +1,13 @@
+@font-face {
+    font-family: Electrolize;
+    src: url(fonts/Electrolize-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lato;
+    src: url(fonts/Lato-Regular.ttf);
+}
+
 .top-bar a:link, .top-bar a:visited, .top-bar a:active, .top-bar .dropdown.menu > li.is-dropdown-submenu-parent > a::after, .top-bar .dropdown.menu a {
     color: #777;
     border-color: #777 transparent transparent;
@@ -21,6 +31,14 @@
 .top-bar .menu-text {
     font-size: 14px;
     color: #777;
+}
+
+#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
+    font-family: Electrolize;
+}
+
+#main {
+    font-family: Lato;
 }
 
 footer {
