@@ -2,7 +2,7 @@ body.is-reveal-open {
     overflow: visible;
 }
 
-span {
+h2 span {
     padding-left: 0.5em;
     font-size: 0.5em;
 }
@@ -12,5 +12,13 @@ span a:link, span a:visited {
 }
 
 span a:hover {
+    color: #b00;
+}
+
+.reveal a:link, .reveal a:visited {
+    color: #f00;
+}
+
+.reveal a:hover {
     color: #b00;
 }
