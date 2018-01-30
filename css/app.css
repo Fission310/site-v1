@@ -1,0 +1,83 @@
+@font-face {
+    font-family: Electrolize;
+    src: url(fonts/Electrolize-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lato;
+    src: url(fonts/Lato-Regular.ttf);
+}
+
+.top-bar a:link, .top-bar a:visited, .top-bar a:active, .top-bar .dropdown.menu > li.is-dropdown-submenu-parent > a::after, .top-bar .dropdown.menu a {
+    color: #777;
+    border-color: #777 transparent transparent;
+}
+
+.top-bar .dropdown.menu a:hover, .top-bar .is-active a:active {
+    color: #444;
+}
+
+.top-bar, .top-bar ul {
+    font-family: Helvetica;
+    font-size: 14px;
+    padding: 0.2rem;
+    background-color: #f2f2f2;
+}
+
+.top-bar {
+    border-bottom: 10px solid #870202;
+}
+
+.top-bar .menu-text {
+    font-size: 14px;
+    color: #777;
+}
+
+#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
+    font-family: Electrolize;
+}
+
+#main {
+    font-family: Lato;
+}
+
+footer {
+    padding-top: 2em;
+    background-color: #222;
+    color: #ccc;
+}
+
+footer h4 {
+    color: #fff;
+}
+
+footer a:link, footer a:visited {
+    color: #ccc;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+footer .column {
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+footer hr {
+    margin-top: 0.5em;
+}
+
+ul {
+    list-style: none;
+}
+
+i {
+    font-size: 1.3em;
+    margin-right: 0.5em;
+}
+
+#main .grid-container {
+    padding-top: 1em;
+}

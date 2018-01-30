@@ -1,0 +1,107 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stuy Fission</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="css/robot.css">
+    <link rel="stylesheet" href="css/foundation-icons.css">
+    <link rel="icon" type="image/jpg" href="img/fission.jpg">
+  </head>
+  <body>
+    <div class="top-bar">
+      <div class="top-bar-left">
+        <ul class="dropdown menu" data-dropdown-menu>
+          <li class="menu-text">Stuy Fission</li>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a>
+            <ul class="menu vertical">
+              <li><a href="team.html">Our Team</a></li>
+              <li><a href="robot.html">Our Robot</a></li>
+              <li><a href="charter.html">Team Charter</a></li>
+            </ul>
+          </li>
+          <li><a href="community.html">Community</a></li>
+          <li><a href="https://fission310.github.io/relic-recovery/">Documentation</a></li>
+          <li><a href="https://theorangealliance.org/teams/310">Competition</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <section id="main">
+      <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+          <div class="large-12 cell">
+            <h2>Our Robot</h2>
+          </div>
+          <div class="large-8 cell">
+            <div class="large-12 cell">
+              <h3>Engineering</h3>
+              <h4>Drivetrain and Chassis</h4>
+              <p>Our drivetrain is a standard four-wheel tankdrive, with the wheels chained onto motors mounted on the chassis. Because the motors are placed above the chassis, rather than below it, the robot can maintain a lower center of gravity. However, this poses the problem of not being able to drive onto the balancing stone. This issue was fixed by placing a wedge on the back of the robot, which pushes the stone down while we drive backwards onto it. Our electronics, including the REV Expansion Hubs, are mounted on a sheet of lexan on the underside of the chassis, while the name plates are mounted on the robot's sides.</p>
+              <h4>Acquirer</h4>
+              <p>The acquirer has two mechanisms: the lift and the clamping servos. A servo on either side of the acquirer controls a vertical rod, and turning the servos in opposite directions allows the rods to clamp onto glyphs. The lift, made of drawer slides and attached to a spool of string, can then raise the clamped glyph to score or stack the glyph onto another glyph. If a glyph is stacked on top of another, both glyphs can be picked up at the same time by the clamping rods.</p>
+              <h5>Previous Iteration</h5>
+              <p>A previous version of the acquirer divided the acquirer vertically into two with a door hinge, allowing the acquirer to clamp glyphs using two top servos, raise the hinge, and clamp another glyph using the two bottom servos. However, we realized this process was slow and ineffective, leading us to remove a servo from either side and combining the clampers on each side into one.</p>
+              <h4>Arm</h4>
+              <p>The arm is a square channel connected to a servo at one end, allowing the servo to freely rotate the channel in 180 degrees. The arm has a color sensor mounted at the other end, and its purpose is to detect the color of a jewel during the autonomous period.</p>
+              <h3>Software Engineering</h3>
+              <h4>Autonomous</h4>
+              <p>As soon as the kickoff video ended, we knew autonomous scoring was going to play a huge role in this year's game. Using a practice drivetrain as a testing robot, various autonomous routines were written, including a drive straight program using encoders and an IMU, a turn program using an IMU, and a jewel scoring program, which utilized the color sensor on the arm. We also experimented with Vuforia and detecting the VuMark, but the robot was unable to consistently drive to the target cryptobox column to score the glyph.</p>
+              <h4>John Dewey Qualifiers</h4>
+              <p>Our autonomous plan for our first qualifier was to simply score the jewel and park in the Safe Zone. However, during practice, something in the electronics malfunctioned and the color sensor would cause the Expansion Hub to lag during initialization, which made it take up to two minutes for the OpMode to become startable. We were able to solve this problem by removing the color sensor, but we were no longer able to use our jewel autonomous program; instead, we settled for parking in the Safe Zone.</p>
+              <h4>
+            </div>
+          </div>
+          <div class="large-4 cell">
+            <h3>Photos</h3>
+            <img class="thumbnail" src="img/design_1.png" alt="Acquirer design">
+            <img class="thumbnail" src="img/design_2.png" alt="Linear slides">
+            <img class="thumbnail" src="img/design_3.png" alt="Design kketches">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="grid-container fluid">
+        <div class="grid-x grid-padding-x">
+          <div class="large-2 column"></div>
+          <div class="small-12 medium-auto large-auto column">
+            <h4>Contact</h4>
+            <hr>
+            <i class="fi-home"></i>&nbsp;Stuyvesant High School<br>
+            <i class="fi-address-book"></i>&nbsp;345 Chambers Street, New York, NY 10282<br>
+            <i class="fi-mail"></i>&nbsp;<a href="mailto:stuyfission@gmail.com">stuyfission@gmail.com</a><br>
+          </div>
+          <div class="small-12 medium-auto large-auto column">
+            <h4>Site Map</h4>
+            <hr>
+            <i class="fi-arrow-right"></i>&nbsp;<a href="index.html">Home</a><br>
+            <i class="fi-arrow-right"></i>&nbsp;<a href="about.html">About</a><br>
+            <i class="fi-arrow-right"></i>&nbsp;<a href="community.html">Community</a><br>
+          </div>
+          <div class="small-12 medium-auto large-auto column">
+            <h4>Social Media</h4>
+            <hr>
+            <i class="fi-social-facebook"></i>&nbsp;<a href="https://www.facebook.com/stuyfission/">Facebook</a><br>
+            <i class="fi-social-github"></i>&nbsp;<a href="https://github.com/fission310">GitHub</a><br>
+            <i class="fi-social-instagram"></i>&nbsp;<a href="https://www.instagram.com/stuyfission/">Instagram</a><br>
+          </div>
+          <div class="large-2 column"></div>
+          <div class="small-12 cell">
+            <p class="text-center">&copy; 2018 Stuy Fission 310</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+
+  </body>
+</html>
