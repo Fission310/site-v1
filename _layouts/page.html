@@ -1,8 +1,40 @@
 ---
 layout: default
 ---
-<div class="container">
 
-    {{ content }}
+<style>
+  .no-margin {
+    margin-bottom: 0px;
+  }
+  h5 {
+    color: #d80808;
+  }
+  .responsive-img {
+    border: solid 4px #fefefe;
+    border-radius: 0;
+    box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+    margin-bottom: 1rem;
+  }
+</style>
+
+<div class="container">
+  <div class="row no-margin">
+    <div class="col s12">
+      <h3>{{ page.title }}</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12 l8">
+      {{ content }}
+    </div>
+    <div class="col s12 l4">
+      <h4>{{ page.sidebar_title }}</h4>
+      {% assign sidebar_content = page.sidebar_content | split: ", " %}
+      {% for c in sidebar_content %}
+      {% assign path = "assets/img/" | append: c %}
+      <img class="materialboxed responsive-img" src="{{ path | relative_url }}">
+      {% endfor %}
+    </div>
+  </div>
 
 </div>

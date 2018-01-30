@@ -2,4 +2,4 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+FIRST Tech Challenge Team 310 from Stuyvesant High School
