@@ -1,10 +1,12 @@
-<nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">Logo</a>
+<nav class="black" role="navigation">
+  <div class="nav-wrapper container">
+    <a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">
+      <img src="{{ '/assets/img/fission.jpg' }}" alt="Stuy Fission" height="56px" width="56px">
+    </a>
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 
           <ul class="right hide-on-med-and-down">
-            <li><a href="{{ "/" | relative_url }}">Home </a></li>
             {% if page_paths %}
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}
@@ -12,12 +14,12 @@
                     <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
                     {% endif %}
                 {% endfor %}
-            {% endif %}              
+            {% endif %}
           </ul>
 
           <ul id="nav-mobile" class="side-nav">
             <li><a href="#">Home</a></li>
-                            {% if page_paths %}
+            {% if page_paths %}
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}
                     {% if my_page.title %}

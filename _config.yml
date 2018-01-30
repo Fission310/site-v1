@@ -1,11 +1,18 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Stuy Fission
+email: stuyfission@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  First Tech Challenge Team Stuy Fission 310 from Stuyvesant High School
 
-twitter_username: macrod68
-github_username:  macrod68
+include: ['_pages']
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+instagram_username: stuyfission
+facebook_username:  stuyfission
+github_username:    fission310
 
 sass:
     style: compressed
