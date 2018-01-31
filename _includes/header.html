@@ -29,10 +29,12 @@
                     {% endif %}
                 {% endfor %}
             {% endif %}
+            <li><a href="https://fission310.github.io/relic-recovery/">Documentation</a></li>
+            <li><a href="https://theorangealliance.org/teams/310">Competition</a></li>
           </ul>
 
           <ul id="nav-mobile" class="side-nav">
-            <li><a href="#">Home</a></li>
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
             {% if page_paths %}
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}
@@ -40,7 +42,9 @@
                     <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
                     {% endif %}
                 {% endfor %}
-            {% endif %} 
+            {% endif %}
+            <li><a href="https://fission310.github.io/relic-recovery/">Documentation</a></li>
+            <li><a href="https://theorangealliance.org/teams/310">Competition</a></li>
           </ul>        
 
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
