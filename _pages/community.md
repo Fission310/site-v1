@@ -2,8 +2,10 @@
 layout: page
 title: Community
 permalink: /community/
+header: true
 sidebar_title: Photos
 sidebar_content: book_drive_1.jpg, book_drive_2.jpg, book_drive_3.jpg, mentoring.jpg, splash_2.jpg
+content_basedir: community
 ---
 
 #### Out of School Events

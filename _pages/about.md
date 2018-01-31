@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+header: false
 sidebar_title:
 sidebar_content: team.jpg, team_outdoors.jpg, stuy.jpg, drive_team.jpg
 ---

@@ -2,8 +2,10 @@
 layout: page
 title: Our Robot
 permalink: /robot/
+header: false
 sidebar_title: Photos
 sidebar_content: design_1.png, design_2.png, design_3.png
+content_basedir: robot
 ---
 
 #### Engineering

@@ -24,13 +24,15 @@
             {% if page_paths %}
                 {% for path in page_paths %}
                     {% assign my_page = site.pages | where: "path", path | first %}
-                    {% if my_page.title %}
+                    {% if my_page.title and my_page.header %}
                     <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
                     {% endif %}
                 {% endfor %}
             {% endif %}
             <li><a href="https://fission310.github.io/relic-recovery/">Documentation</a></li>
             <li><a href="https://theorangealliance.org/teams/310">Competition</a></li>
+            <li><a class="dropdown-button" data-activates="about" style="padding-right: 10px;">About<i class="material-icons right">arrow_drop_down</i></a></li>
+            <li><a class="dropdown-button" data-activates="resources">Resources<i class="material-icons right">arrow_drop_down</i></a></li>
           </ul>
 
           <ul id="nav-mobile" class="side-nav">
@@ -45,8 +47,19 @@
             {% endif %}
             <li><a href="https://fission310.github.io/relic-recovery/">Documentation</a></li>
             <li><a href="https://theorangealliance.org/teams/310">Competition</a></li>
-          </ul>        
+          </ul>
 
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
 </nav>
+
+<ul id="about" class="dropdown-content">
+  <li><a class="red-text text-darken-2" href="{{ "/about/" | relative_url }}">About Us</a></li>
+  <li><a class="red-text text-darken-2" href="{{ "/team/" | relative_url }}">Our Team</a></li>
+  <li><a class="red-text text-darken-2" href="{{ "/robot/" | relative_url }}">Our Robot</a></li>
+  <li><a class="red-text text-darken-2" href="{{ "/sponsors/" | relative_url }}">Sponsors</a></li>
+</ul>
+
+<ul id="resources" class="dropdown-content">
+  <li><a class="red-text text-darken-2" href="https://docs.google.com/document/d/1D5CMDm6661BIPoEJLKT52yFLJYrlibx_09gz-c8Ies0/edit">Team Charter</a></li>
+</ul>
