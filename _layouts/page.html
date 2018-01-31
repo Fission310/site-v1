@@ -31,8 +31,23 @@ layout: default
       <h4>{{ page.sidebar_title }}</h4>
       {% assign sidebar_content = page.sidebar_content | split: ", " %}
       {% for c in sidebar_content %}
-      {% assign path = "assets/img/" | append: c %}
-      <img class="materialboxed responsive-img" src="{{ path | relative_url }}">
+        {% if c contains "|" %}
+          {% assign foo = c | split: "|" %}
+          {% if page.content_basedir %}
+            {% assign path = "assets/img/" | append: page.content_basedir | append: "/" | append: foo[0] %}
+          {% else %}
+            {% assign path = "assets/img/" | append: foo[0] %}
+          {% endif %}
+          {% assign caption = foo[1] %}
+          <img class="materialboxed responsive-img" data-caption="{{ caption }}" src="{{ path | relative_url }}">
+        {% else %}
+          {% if page.content_basedir %}
+            {% assign path = "assets/img/" | append: page.content_basedir | append: "/" | append: c %}
+          {% else %}
+            {% assign path = "assets/img/" | append: c %}
+          {% endif %}
+          <img class="materialboxed responsive-img" src="{{ path | relative_url }}">
+        {% endif %}
       {% endfor %}
     </div>
   </div>
