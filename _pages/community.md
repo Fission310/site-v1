@@ -4,7 +4,7 @@ title: Community
 permalink: /community/
 header: true
 sidebar_title: Photos
-sidebar_content: book_drive_1.jpg, book_drive_2.jpg, book_drive_3.jpg, mentoring.jpg, splash_2.jpg
+sidebar_content: book_drive_1.jpg, book_drive_2.jpg, book_drive_3.jpg, mentoring.jpg, splash_1.jpg, splash_2.jpg, splash_3.jpg
 content_basedir: community
 ---
 
