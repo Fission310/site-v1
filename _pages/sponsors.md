@@ -6,11 +6,12 @@ header: false
 ---
 
 <style>
-  img {
+  .row img {
     max-height: 6rem;
     padding: 1rem;
     display: block;
     margin: 0 auto;
+    max-width: -webkit-fill-available;
   }
   h6 {
     max-height: 6rem;
