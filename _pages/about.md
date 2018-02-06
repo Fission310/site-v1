@@ -4,7 +4,8 @@ title: About Us
 permalink: /about/
 header: false
 sidebar_title:
-sidebar_content: team.jpg, team_outdoors.jpg, stuy.jpg, drive_team.jpg
+sidebar_content: team_outdoors.jpg, stuy.jpg, drive_team.jpg
+content_basedir: about
 ---
 
 We are Stuy Fission 310, a FTC team from New York City. Our team is comprised of dedicated Stuyvesant High School students who not only wish to do well in competition but also to spread the values of FIRST. We all come from very diverse backgrounds; for some of us, this is our first time getting involved in STEM,  while others of us have been involved in FLL and other programs. Being part of the team not only allows us to be part of a family that shares the same interests, but it also allows us to learn from each other and grow.
