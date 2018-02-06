@@ -4,7 +4,7 @@ title: Our Robot
 permalink: /robot/
 header: false
 sidebar_title: Photos
-sidebar_content: design_1.png, design_2.png, design_3.png, robot1.jpg
+sidebar_content: design_1.png|Prototype design of chassis, design_2.png|Linear slides basics, design_3.png|Design ideas and sketches, robot1.jpg|Robot during Francis Lewis Qualfier
 content_basedir: robot
 ---
 
