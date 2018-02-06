@@ -4,7 +4,7 @@ title: Community
 permalink: /community/
 header: true
 sidebar_title: Photos
-sidebar_content: book_drive_1.jpg, book_drive_2.jpg, book_drive_3.jpg, mentoring.jpg, splash_1.jpg, splash_2.jpg, splash_3.jpg
+sidebar_content: book_drive_1.jpg|Kids interacting with our robot at the book drive!, book_drive_2.jpg|Selling books at the book drive, mentoring.jpg|Mentoring an FLL team, splash_1.jpg|Jon presenting about 3D printing at Stuy Splash, splash_2.jpg|JT presenting about FTC teams at Stuy Splash
 content_basedir: community
 ---
 

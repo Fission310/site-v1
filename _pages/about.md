@@ -4,7 +4,7 @@ title: About Us
 permalink: /about/
 header: false
 sidebar_title:
-sidebar_content: team_outdoors.jpg, stuy.jpg, drive_team.jpg
+sidebar_content: team_outdoors.jpg|Stuy Fission at Battery Park, stuy.jpg|Stuyvesant High School, drive_team.jpg|Drive team at Francis Lewis Qualifiers
 content_basedir: about
 ---
 
