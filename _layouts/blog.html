@@ -13,13 +13,13 @@ layout: default
             <span class="card-title" href="{{ post.url | relative_url }}"><strong>{{ post.title | escape }}</strong></span>
           </div>
           <div class="card-content">
-            {% assign date_format = site.minima.date_format | default: "%m/%d/%y" %}
-            <div class="date-post red-text text-darken-3">{{ post.date | date: date_format }}</div>
-            <br>
+            {% assign date_format = "%B %d, %Y" %}
+            {{ post.date | date: date_format }}
+            <hr>
             <p>{{ post.content | truncatewords: 20 }}</p>
           </div>
           <div class="card-action">
-            <a href="{{ post.url | relative_url }}">Read more</a>
+            <a class="red-text text-darken-3" href="{{ post.url | relative_url }}">Read more</a>
           </div>
         </div>
       </div>
