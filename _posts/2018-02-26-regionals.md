@@ -5,7 +5,7 @@ categories: general
 author: "Saahir Ganti-Agarwal and Max Lobel"
 ---
 
-Yesterday, February 25th, our team was very fortunate to compete at the NYC Regional Championship at Townsend Harris High School.  Despite facing tremendous technical difficulties with almost every part of our robot we were nominated for the Connect and Think award, and we were able to win the PTC Design Award and the 3rd place Inspire Award. By winning the 3rd place Inspire Award, we advanced to the East Super-Regional competition in Scranton, Pennsylvania from March 14-16th!
+Yesterday, February 25th, our team was very fortunate to compete at the NYC Regional Championship at Townsend Harris High School.  Despite facing tremendous technical difficulties with almost every part of our robot we were nominated for the Connect and Think award, and we were able to win the PTC Design Award and the 3rd place Inspire Award. By winning the 3rd place Inspire Award, we advanced to the East Super-Regional competition in Scranton, Pennsylvania from March 16-18th!
 
 During the qualification matches, many of our robot’s components failed to function properly, and we were thus unable to win any of our five matches.  In our first match, we did not properly secure some wires and the battery, and we disconnected early on in the match.  In our other matches, we faced difficulties with keeping our glyph intake chain aligned, preventing glyphs from getting stuck in the middle of our robot, and preventing the strings and wiring in the relic mechanism from jamming.  In addition, our autonomous routine faced issues with aligning with the cryptobox to score and scoring the jewel.
 
