@@ -13,4 +13,4 @@ We cannot thank our mentors and advisors enough for supporting us throughout the
 
 We were very impressed with so many of the teams from the NYC regional and offer our congratulations to all that advance. We are super excited to be continuing to Super Regionals and we look forward to competing with the teams from across the Northeast!
 
-![team picture]({{ "/assets/img/2018-02-26-regionals.jpg" | absolute_url }})
+![team picture]({{ "/assets/img/posts/2018-02-26-regionals.jpg" | absolute_url }})
