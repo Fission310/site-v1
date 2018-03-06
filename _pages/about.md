@@ -21,7 +21,7 @@ Totaling over 3200 students from all five city boroughs and diverse internationa
 
 #### What makes Stuy Fission unique?
 One of the things we take pride in is our overwhelming diversity. Half of our team members were either born outside of the United States or are children of first generation immigrants.
-Stuy Fission has also been a championship team over the last few years. Four years ago, we were the Alliance Captain at the New York City Regionals and advanced to Super Regionals. We were also on the Winning Alliance at the same regionals last year while winning the Dalton Qualifiers as the Alliance Captain, and this year, we have advanced to Regionals again, as the second pick on the Winning Alliance at John Dewey.
+Stuy Fission has also been a championship team over the last few years. Four years ago, we were the Alliance Captain at the New York City Regionals and advanced to Super Regionals. We were also on the Winning Alliance at the same regionals last year while winning the Dalton Qualifiers as the Alliance Captain, and this year, we have advanced to Super Regionals again, as the Inspire 3rd Place winner.
 
 #### About this Website
-This website was built by Ryan Siu in the 2017-2018 season, and is currently a work in progress.
+This website was built by Ryan Siu in the 2017-2018 season, and serves as a virtual portfolio of our team as well as a blog to update other teams about our progress. It will be maintained by the Head of Software Engineering, who will oversee the addition of new pages and/or updated content. Blog posts can be added by any team member; the website is designed to make creating new posts simple.

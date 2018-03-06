@@ -4,8 +4,8 @@ title: Our Team
 permalink: /team/
 header: false
 sidebar_title: Photos
-sidebar_content: jt.jpg|JT, lili.jpg|Lili, saahir.jpg|Saahir, ryan.jpg|Ryan, jon.jpg|Jon, max.jpg|Max, matthew.jpg|Matthew, junming.jpg|Jun Ming, ish.jpg|Ish, aleks.jpg|Aleks, joe.jpg|Joe, anthonyL.jpg|Anthony L., arizit.jpg|Arizit, megan.jpg|Megan, liam.jpg|Liam, sam.jpg|Sam, anthonyP.jpg|Anthony P., dario.jpg|Dario
-content_basedir: small
+sidebar_content: jt.jpg|JT, lili.jpg|Lili, saahir.jpg|Saahir, ryan.jpg|Ryan, jon.jpg|Jon, max.jpg|Max, matthew.jpg|Matthew, junming.jpg|Jun Ming, ish.jpg|Ish, aleks.jpg|Aleks, joe.jpg|Joe, anthonyL.jpg|Anthony L., arizit.jpg|Arizit, megan.jpg|Megan, liam.jpg|Liam, sam.jpg|Sam, anthonyP.jpg|Anthony P., dario.jpg|Dario, blay.jpg|Mr. Blay
+content_basedir: team
 ---
 
 #### Executive Council
