@@ -3,6 +3,7 @@ layout: post
 title: "NYC Regional Championship"
 categories: general
 author: "Saahir Ganti-Agarwal and Max Lobel"
+comments: true
 thumbnail: "2018-02-26-regionals.jpg"
 ---
 

@@ -15,4 +15,7 @@ facebook_username:  stuyfission
 github_username:    fission310
 
 sass:
-    style: compressed
+  style: compressed
+
+disqus:
+  shortname: stuyfission
