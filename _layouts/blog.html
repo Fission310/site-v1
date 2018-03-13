@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
+<script src="{{ '/js/masonry.pkgd.min.js' | absolute_url }}"></script>
+<script src="{{ '/js/imagesloaded.pkgd.min.js' | absolute_url }}"></script>
 
 <div class="container">
   <h3>Blog</h3>
-  <div class="row">
+  <div class="row grid">
     {% for post in site.posts %}
       <div class="col s12 m6 l4">
         <div class="card">
@@ -27,5 +29,14 @@ layout: default
 
     {% endfor %}
   </div>
+
+<script>
+  imagesLoaded( document.querySelector('.grid'), function( instance ) {
+    var msnry = new Masonry( '.grid', {
+      horizontalOrder: true
+    });
+  });
+
+</script>
 
 </div>
