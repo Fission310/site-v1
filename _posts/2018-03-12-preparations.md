@@ -17,4 +17,4 @@ We have also extensively worked to prep the team for competition. We have scoute
 
 We’re very excited to meet new teams and see how other teams have approached this year’s challenge, and we’re very grateful to our mentors and sponsors for this opportunity! Tell us what your team has been doing to prepare for supers or how you’ve been spending the off season!
 
-![stringing system]({{ "/assets/img/posts/2018-03-12-preparations.jpg" | absolute_url }})
+![stringing system](https://imgur.com/R26kksh.jpg)
