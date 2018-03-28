@@ -6,6 +6,7 @@ author: "Saahir Ganti-Agrawal"
 comments: true
 thumbnail: "2018-03-28-supers-pit.jpg"
 ---
+
 In our trip to the East Super-Regional this year, we had to overcome many challenges in order for our robot to work as designed.  We faced many challenges with our relic mechanism stringing and wiring system, as well as with our acquirer's ability to fit into dimension and align glyphs to our glyph-scoring ramp.  While we were not able to solve all of these issues at the competition, these issues taught us a lot about how we can prevent similar design flaws in the future.
 
 For the past many weeks, one problem that we kept noticing was that in spite of how carefully we set up the stringing for the linear slides in our relic mechanism, one string inevitably loosened and became tangled with our other robot components.  To solve this problem, we consulted a member from team Brainstormers, who helped us figure out that the reason our string kept loosening was because the type of string we were using stretched over time.  Thanks to the generosity of team Geared Up, we were able to get a different type of string to use.  Although we could only get enough string to replace the retracting string, we were still able to notice some improvement in the slide function.
