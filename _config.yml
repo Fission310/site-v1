@@ -10,6 +10,8 @@ defaults:
     values:
       image: true
 
+future: true
+
 instagram_username: stuyfission
 facebook_username:  stuyfission
 github_username:    fission310
