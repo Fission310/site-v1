@@ -33,7 +33,7 @@ layout: default
           <div class="date-post">{{ post.date | date: date_format }}</div>
           <span class="title"><a class="post-link red-text text-darken-3" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
           <p>
-             {{ post.content | truncatewords: 15 }}
+            {{ post.content | strip_html | truncatewords: 15 }}
           </p>
           <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons red-text">navigate_next</i></a>
         </li>
