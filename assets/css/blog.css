@@ -1,0 +1,20 @@
+.image-holder {
+    position: relative;
+}
+
+.image-holder:after {
+    content:'';
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    background: black;
+    opacity: 0.3;
+}
+
+span {
+    z-index: 15;
+}
