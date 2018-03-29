@@ -27,7 +27,9 @@ layout: default
     <section>
         <h5>Latest Posts</h5>
         <ul class="collection">
-        {% for post in site.posts %}
+        {% for i in (0..6) %}
+        {% assign post = site.posts[i] %}
+        {% if post %}
         <li class="collection-item avatar">
           {% assign date_format = site.minima.date_format | default: "%m/%d" %}
           <div class="date-post">{{ post.date | date: date_format }}</div>
@@ -37,6 +39,7 @@ layout: default
           </p>
           <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons red-text">navigate_next</i></a>
         </li>
+        {% endif %}
         {% endfor %}
         </ul>
     </section>
