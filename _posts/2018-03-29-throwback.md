@@ -4,7 +4,9 @@ title: "#tbt"
 categories: general
 author: "Ryan Siu"
 comments: true
-thumbnail: default
+thumbnail:
+  - name: default
+    external: false
 ---
 
 Here's a little throwback to our winter break auton testing:

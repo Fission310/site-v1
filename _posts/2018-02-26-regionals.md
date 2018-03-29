@@ -4,7 +4,9 @@ title: "NYC Regional Championship"
 categories: general
 author: "Saahir Ganti-Agarwal and Max Lobel"
 comments: true
-thumbnail: "2018-02-26-regionals.jpg"
+thumbnail:
+  - name: "DCWSbFk"
+    external: true
 ---
 
 Yesterday, our team was very fortunate to compete at the NYC Regional Championship at Townsend Harris High School.  Despite facing tremendous technical difficulties with almost every part of our robot we were nominated for the Connect and Think award, and we were able to win the PTC Design Award and the 3rd place Inspire Award. By winning the 3rd place Inspire Award, we advanced to the East Super-Regional competition in Scranton, Pennsylvania from March 16-18th!

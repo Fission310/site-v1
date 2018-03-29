@@ -4,7 +4,9 @@ title: "In the Pit at Supers"
 categories: general
 author: "Saahir Ganti-Agrawal"
 comments: true
-thumbnail: "2018-03-28-supers-pit.jpg"
+thumbnail:
+  - name: "vEODYEm"
+    external: true
 ---
 
 In our trip to the East Super-Regional this year, we had to overcome many challenges in order for our robot to work as designed.  We faced many challenges with our relic mechanism stringing and wiring system, as well as with our acquirer's ability to fit into dimension and align glyphs to our glyph-scoring ramp.  While we were not able to solve all of these issues at the competition, these issues taught us a lot about how we can prevent similar design flaws in the future.

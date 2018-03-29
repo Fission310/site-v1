@@ -4,7 +4,9 @@ title: "Volunteering at NYC FLL Championship"
 categories: general
 author: "JT Tao"
 comments: true
-thumbnail: "2018-03-12-fll-champs.jpg"
+thumbnail:
+  - name: "FzIFSjn"
+    external: true
 ---
 
 ![fll team](https://imgur.com/5rU4RRg.jpg)

@@ -4,7 +4,9 @@ title: "Preparing for Supers"
 categories: general
 author: "Max Lobel"
 comments: true
-thumbnail: "2018-03-12-preparations.jpg"
+thumbnail:
+  - name: "ssvV7TT"
+    external: true
 ---
 
 With just three days left to work in the lab before Super Regionals we are very hopeful about our ability to succeed at the upcoming competition and hopefully make it to Worlds for the first time! Since the NYC regional, we have worked to improve our robot’s autonomous, fixed many of our robot’s faulty mechanisms, and worked to prepare for judges meet and scout out the teams we’re facing at competition this coming weekend.

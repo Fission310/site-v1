@@ -34,10 +34,12 @@ layout: default
       <div class="col s12 m6 l4">
         <div class="card">
           <div class="card-image image-holder">
-            {% if post.thumbnail == "default" %}
+            {% if post.thumbnail[0].external == true %}
+              <img src="{{ 'https://imgur.com/' | append: post.thumbnail[0].name | append: '.jpg' }}">
+            {% elsif post.thumbnail[0].name == "default" %}
               <img src="{{ '/assets/img/posts/thumbnails/default.jpg' | absolute_url }}">
             {% else %}
-              <img src="{{ '/assets/img/posts/thumbnails/' | append: post.thumbnail | absolute_url }}">
+              <img src="{{ '/assets/img/posts/thumbnails/' | append: post.thumbnail[0].name | absolute_url }}">
             {% endif %}
             <span class="card-title" href="{{ post.url | relative_url }}"><strong>{{ post.title | escape }}</strong></span>
           </div>
