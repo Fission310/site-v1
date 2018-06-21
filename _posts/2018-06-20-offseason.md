@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Off-season Cleanup"
+title: "Off-season"
 categories: general
 author: "Joe Suzuki"
 comments: true
 thumbnail:
   - name: default
-    external: false
+    external: true
 ---
 
 Working hard!
