@@ -6,9 +6,9 @@ author: "Joe Suzuki"
 comments: true
 thumbnail:
   - name: default
-    external: true
+    external: false
 ---
 
-Working hard!
+While we rest from recovering relics, we will be working hard over the summer to make sure that we have a successful next season. 
 
-![stringing system](https://imgur.com/6iCTNdT)
+![repairing robot](https://imgur.com/6iCTNdT.jpg)
