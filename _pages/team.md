@@ -27,12 +27,12 @@ My name is Megan Gupta-She and this is my first year on Stuy Fission 310. Even t
 ##### Arizit Pal
 Senior, Head of Engineering
 
-I joined robotics to make a difference not only in my school and community but also in myself. By joining robotics, I thought I would change and learn new skills and assets to bring along with me to the future. Today, I'm glad I joined robotics for the fun community, good times we have here and the commitment we have into our robot. As an FTC engineer, I believe our robot can strive towards higher expectations, because as members we are constantly challenging one another to set high goals. We believe we can make a robot better than it was yesterday. Prior to joining robotics, school was on a tight schedule. But now, I have more time to do what I want. I was fascinated when I heard about the school's robotics team. But the experience is much more different than hearing about it. These past 2 years on the team has been great with new friends, newbies and robots being introduced each year.
+I was always interested in engineering and coming up with creative solutions to problems. Whether these solutions involved LEGOs, paper, or even popsicle sticks, I enjoyed the creativity and the variability of my solutions. By joining robotics and FTC, I was able to continue what I love doing. Except now, it’s not LEGOs anymore, but metal, wood, and aluminum where we use these parts to build actual robots that can do specific tasks. As the Head of Engineering, I am responsible for the completion of the various mechanisms and prototypes and the integration into our robot. I believe our robot can strive towards higher expectations, because our team is constantly being challenged from our own peers and mentors. These past 3 years on the team has been great and fun to work with because each year there is something different among the game, the robot and even our team. As a senior at Stuy, here’s to one more unforgettable last year. ლ(ಠ益ಠლ)
 
 ##### Joe Suzuki
 Senior, Head of Software Engineering
 
-I was born and raised in Queens, NY and I’m now a junior at Stuyvesant High School with interests in technology and entrepreneurship. I'm currently on the robotics team because I enjoy working with others and learning how a successful team operates. I have enjoyed my two and a half years in team 310, because I've met great people and learned a-lot. After graduating Stuyvesant, I hope to work at a startup company, helping people’s lives.
+Growing up in Queens, NY I always envisioned myself doing something in the big city, Manhattan. I’ll admit, I had no idea what I wanted to do in the city, but the dream of transforming people’s lives for the greater always sparked an inner flame. I suppose you can say that I was inspired by my favorite superhero Tony Stark. The first Iron Man film inspired me to love robotics. So it was definitely no surprise that I chose to join my school’s FTC Robotics team as a freshman in high school. I started out an engineer on the team but it was only after the first qualifiers of my sophomore year that I saw how lacking the Software Engineering department was. From that point on I decided to change gears and become a software engineer for the team. Now as a senior in high school, I can look back at all the ways I changed, but also look forward to how I can influence others around me. This year, I will step in the shoes of my predecessors and fulfill the role of leading the SE department. I know this year will be challenging, leading a group of newbies was never a common skill of mine, but with the support of my team, I know that I can do something that younger Joe could only dream of. I made it my mission to motivate the generation before me and I know that by leading my current SE team to the best of my ability now, they will be able to carry my vision to the next generation and the generation after that.
 
 ---
 
@@ -41,14 +41,7 @@ I was born and raised in Queens, NY and I’m now a junior at Stuyvesant High Sc
 ##### Nafis Uddin
 Senior, Engineering
 
-Lorem ipsum dolor sit amet, per feugait efficiantur liberavisse cu, congue iisque tincidunt id has. Ei gloriatur efficiantur sed. Iuvaret oporteat his at. Ad mel voluptua adolescens, ut mei habeo percipitur mediocritatem. Sed ad accusam mediocritatem, usu te ferri sententiae vituperatoribus, dictas accusam albucius sit ex.
-
-
-##### Tasnuba Sukanna
-Senior, Engineering
-
-Lorem ipsum dolor sit amet, per feugait efficiantur liberavisse cu, congue iisque tincidunt id has. Ei gloriatur efficiantur sed. Iuvaret oporteat his at. Ad mel voluptua adolescens, ut mei habeo percipitur mediocritatem. Sed ad accusam mediocritatem, usu te ferri sententiae vituperatoribus, dictas accusam albucius sit ex.
-
+As a child, my eagerness to learn was only surpassed by my awkwardness around others. I found it troublesome connecting with others for few of my peers had the same background as I did. I was an immigrant coming from Bangladesh and my parents had, from an early age on, stressed the importance of a well-rounded education. I found my niche at Stuyvesant High School and specifically in Team Fission. It was an environment that nurtured my passion for the maths and sciences, but more importantly, it allowed me to shed my former shyness. Joining the robotics team taught me the importance of people skills and synergy. Working closely with the team and hearing their ideas encouraged me to speak up more and share my own opinion. As a senior, my time with the team -- the long meetings, the late dinners, the competitions, the cheering -- has immensely shaped my character, and what I’ve learned about teamwork and working amongst others is something I will carry with me for the rest of my life. 
 
 ---
 
