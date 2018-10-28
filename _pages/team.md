@@ -18,7 +18,7 @@ Ever since the third grade, I’ve been fascinated by science and engineering, s
 ##### Megan Gupta-She
 Sophomore, Vice President
 
-My name is Megan Gupta-She and this is my first year on Stuy Fission 310. Even though this is my first year on FTC, I am not completely new to robotics. I have been interested in robotics for as long as I can remember and have been in FLL previously. I also mentor a FLL team named Robotron #5355. Other than robotics, I also play lacrosse.
+When I was young, my parents thought that it was very important to try everything to try to find what you love. I tried everything from ballet to art to robotics. I was lucky enough to find what I love so early on. Through all the insane things that I have tried, robotics has always stuck. When I came to Stuyvesant, I was overwhelmed, as everyone is when they walk through the entrance on the first day of school. Getting lost at such a large school is easy and everyone needs someplace that grounds them. Robotics is that place for me. I love every part of the competition, the building, marketing, scouting, strategics, the mentors and mentees and it has become a part of my identity. As the vice president of this team, I work to move our team forward whether that is writing the Engineering Notebook, teaching newbies, delegating building and coding, organizing outreach events, or meeting with mentors and coaches to discuss different aspects of the team. This robotics team has become my family and there is no other team I'd rather go through competition season with. I enjoy mentoring 2 FLL teams and playing lacrosse in my free time.
 
 ---
 
