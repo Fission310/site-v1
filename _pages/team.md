@@ -4,7 +4,7 @@ title: Our Team
 permalink: /team/
 header: false
 sidebar_title: Photos
-sidebar_content: Lili_Megan.jpg|Lili(left) and Megan(right), Ar_Joe.jpg|Joe(left) and Arzit(right), blay.jpg|Mr. Blay
+sidebar_content: Lili_Megan.jpg|Lili (left) and Megan (right), Ar_Joe.jpg|Joe (left) and Arzit (right), blay.jpg|Mr. Blay
 content_basedir: team
 ---
 

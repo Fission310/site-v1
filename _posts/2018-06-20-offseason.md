@@ -11,4 +11,4 @@ thumbnail:
 
 While we rest from recovering relics, we will be working hard over the summer to make sure that we have a successful next season. 
 
-![repairing robot](https://imgur.com/6iCTNdT.jpg)
+![off season work](https://imgur.com/6iCTNdT.jpg)
