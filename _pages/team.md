@@ -4,7 +4,7 @@ title: Our Team
 permalink: /team/
 header: false
 sidebar_title: Photos
-sidebar_content: Lili_Megan.jpg|Lili (left) and Megan (right), Ar_Joe.jpg|Joe (left) and Arzit (right), blay.jpg|Mr. Blay
+sidebar_content: Lili_Megan.jpg|Lili (left) and Megan (right), Ar_Joe.jpg|Joe (left) and Arzit (right), blay.jpg| Joe Blay
 content_basedir: team
 ---
 
@@ -43,6 +43,41 @@ Senior, Engineering
 
 As a child, my eagerness to learn was only surpassed by my awkwardness around others. I found it troublesome connecting with others for few of my peers had the same background as I did. I was an immigrant coming from Bangladesh and my parents had, from an early age on, stressed the importance of a well-rounded education. I found my niche at Stuyvesant High School and specifically in Team Fission. It was an environment that nurtured my passion for the maths and sciences, but more importantly, it allowed me to shed my former shyness. Joining the robotics team taught me the importance of people skills and synergy. Working closely with the team and hearing their ideas encouraged me to speak up more and share my own opinion. As a senior, my time with the team -- the long meetings, the late dinners, the competitions, the cheering -- has immensely shaped my character, and what I’ve learned about teamwork and working amongst others is something I will carry with me for the rest of my life. 
 
+##### Emily Tan
+Freshman, Engineering
+
+My name is Qiao Ying (Emily) and this is my first year in robotics. I joined because I thought I would enjoy engineering and it would be a chance to learn a bit of software. I thought robotics would give lots of opportunities for me to interact with different people. I am also interested in drawing and sketching, which is also why I wanted to mainly do engineering.
+
+##### Aaron Hsu
+Freshman, Software Engineering
+
+The first time that I saw a machine deconstructed was when my dad took apart a broken alarm clock when I was 10. Each individual part that made up the clock intrigued me. The composition of seemingly simple pieces worked together to create a functioning machine with a specific purpose. During middle school, I experimented with code and developed a liking towards it. Similar to the alarm clock, the composition of each line of code worked together to form a program. I joined robotics because I want to develop and apply my ability to code to a project that I can work on with others.
+
+##### Tasnuba Sukanna
+Senior, Marketing
+
+As a child, I loved reading mystery/spy fiction books, where characters got out of sticky situations using their wits and abilities. I was always in awe of the characters who would resourcefully build a contraption or use their knowledge of mechanisms to figure things out. I fueled this interest by watching YouTube videos and reading instructions on WikiHow to make my own motion detectors and homemade mousetrap cars. If not begging my mom to take to me to RadioShack, I would always take old pens and electronic toys apart, salvaging the parts and hoarding them for years, just in case I needed them for a project. When I entered high school, robotics was the only club I had my eyes for. Our victory banners covering the walls of our school gave me a sense of pride and excitement to join and contribute. Joining this team was critical for my development because I suddenly realized there was so much I didn't know. Especially because the majority of my teammates were in FLL teams and already familiar with robotics, I felt super isolated from my team. However, this gave me the opportunity to figure out what exactly I was missing and work on it. As a freshman, I was intimidated by the upperclassmen but soon gained confidence talk to them about their experiences in engineering. This helped me to take initiative outside of school and robotics, and pave my passion for engineering.
+
+##### Henry lin
+Freshman, Engineering
+
+From a very young age, my parents always expected very much of me. They would always compare me to others and tell me how I'm lacking behind. To please them, I tried to make it to stuy, and I ended up doing just that. The first day here, I could already tell it's going to be very hard, with the amount of stairs we have to climb and quizzes and test every week. I joined robotics as a way to relieve my stress and have some fun making new friends. My personal hobbies and interests are sleeping, eating, playing, and watching anime. By joining robotics, I hope to find someone with the same interest as me.
+
+##### Kelly Hu
+Freshman, Software Engineering
+
+Growing up, I loved to create things. I have always been more interested in the tangible and things that take up space. That is why I picked up drawing. It was a way for me to make things that are also visually appealing. However, I soon learned that it would not be of much use to me in the future to just draw. Though I have no hate to those with art degrees and careers involving the arts, I feel that it would never benefit me in any way other than to be to brag about how well I draw; which isn’t that well at all. So when I learned that Stuyvesant had a robotics team, I knew that it would be the perfect club for me. Robotics can give me a chance to learn how to make machines and program them to do tasks that we can do. Furthermore, programming had always caught my interest in this growing age of technology. The only problem was that I didn’t know how to start learning, so when I was given an opportunity to learn it, I took it. That is why I joined robotics.
+
+##### Naomi Naranjo
+Freshman, Engineering
+
+My name is Naomi, and this is my first year in robotics. Since I was a child I always loved the idea of being on a team and getting to work with others to create something new. So when I learned that Stuyvesant had a robotics team, I quickly signed up. So far it has been a great experience being on 310 and learning from the mentors on my time. I look forward to spending time in robotics, and with my new team. Some other things that I enjoy in my free time are reading and songwriting.
+
+##### Marko Zimic
+Freshman, Engineering
+
+I joined robotics because I have done robotics with FIRST for a long time and I really liked it, so I wanted to maintain the action by joining Stuy’s team. Currently, I am but a newbie on the team and am still learning the ropes.
+
 ---
 
 #### Coaches and Mentors
@@ -55,21 +90,24 @@ James Lonardo has served our team for over eight years. He attends many of our l
 ##### Joseph Blay
 Coach
 
-Joe Blay has had a tremendous impact on our team since his own high school years. Mr. Blay was actually a former Stuyvesant High School student, graduating in 2009. While a student, he was a member of our sister team, FRC StuyPulse 694. After graduating, he has consistently made sure to stay with the team, even as he was busy with college at SUNY - Stony Brook. Now he is actually a teacher at Stuyvesant (engineering design, precalculus and technical drawing) and therefore one of our official coaches, filling in the void that the retirement of Coach Rafael Colón has left.
+Mr. Blay has had a tremendous impact on our team since his own high school years. Mr. Blay was actually a former Stuyvesant High School student, graduating in 2009. While a student, he was a member of our sister team, FRC StuyPulse 694, and now he is a teacher at Stuyvesant (engineering design, precalculus, and technical drawing). His incredible dedication to the team is really an inspiration to us, reminding us, especially the seniors, the importance of coming back and continuing to influence and contribute to the team even after graduation. His presence is also what allows us to have our late night or weekend meetings that are crucial to ensuring that our robot is completed in a timely manner.
 
-His incredible dedication to the team is really an inspiration to us, reminding all of us but especially the seniors the importance of coming back and continuing to influence and contribute to the team even after graduation. His presence is also what allows us to have our late night or weekend meetings that are crucial to ensuring that our robot is completed in a timely manner.
+This year he has become more committed to helping our team get the furthest we have ever gotten. He has helped us come up with unique ideas for mechanisms, calculate torque and speed to make crucial choices, complete driver try-outs, etc. which will make this season our best yet.
 
-##### James Potter
+##### Levi Olevsky
 Mentor
 
-James Potter brings a unique view of the world around him to the team. He’s incredibly creative, often finding solutions that are incredibly innovative that never fail to greatly improve our robot. Not only does he provide his extensive knowledge of engineering but also support for the non-technical aspects of the team. He is always available to talk to and has become a friend.
+Levi is a StuyPulse alum, who graduated just last year and now attends New York University. Since then he has come back and continued to work with 694 (our sister FRC team) as well as move more into FTC. He has helped us when weighing the pros and cons of many ideas as well as just being the rock of our team. Levi has become someone that many of us rely on for anything from a friend to a mentor.
 
-James Potter was first around when his son joined our school’s FRC team StuyPulse 694 but ended up staying after as a mentor when his son graduated. He has immense robotics spirit, attending as many meetings and competitions as he can for the past 8 years. All of Stuyvesant Robotics is proud to call him our mentor.
-
-##### Dan Lavin
+##### Zhengqi Xi
 Mentor
 
-Dan Lavin is integral in helping our members learn about the machines present in our lab (and the safety procedures that come along with it!), the electronics that we might need to use including how to turn an old security camera into a potentiometer and the proper use of the milling equipment we have in our lab.
+Zhengqi started as a mentor for us through a Bloomberg program and has been with us ever since. He is able to facilitate many of the conversations we have about design and engineering season because of his background in the fields of robotics and engineering.
+
+##### Mel Hauptman
+Mentor
+
+Mel has helped us tremendously this year especially in our engineering process. Being a mechanical engineer, he has a very solid foundation and can predict all the faults of our designs. He has been useful when talking about all of our different hanging mechanisms and he has definitely helped us avoid some disastrous design issues. 
 
 ##### Rafael Colón
 Former Coach
