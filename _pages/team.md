@@ -4,7 +4,7 @@ title: Our Team
 permalink: /team/
 header: false
 sidebar_title: Photos
-sidebar_content: Lili_Megan.jpg|Lili (left) and Megan (right), Ar_Joe.jpg|Joe (left) and Arzit (right), blay.jpg| Joe Blay
+sidebar_content: Lili.jpg|Lili Boenigk, Megan.jpg|Megan Gupta-She, Arizit.jpg|Arizit Pal, Joe.jpg|Joe Suzuki, Nafid.jpg|Nafis Uddin, Emily.jpg|Emily Tan, default.jpg|Aaron Hsu, Tas.jpg|Tasnuba Sukanna, default.jpg|Henry lin, default.jpg|Kelly Hu, Naomi.jpg| Naomi Naranjo, default.jpg|Marko Zimic, Keith.jpg|Keith Low, default.jpg|Navid Kashem, Lonardo.jpg|James Lonardo, Blay.png|Joe Blay, Levi,png|Levi Olevsky, Noah.png|Noah Tom-Wong
 content_basedir: team
 ---
 
@@ -78,6 +78,16 @@ Freshman, Engineering
 
 I joined robotics because I have done robotics with FIRST for a long time and I really liked it, so I wanted to maintain the action by joining Stuy’s team. Currently, I am but a newbie on the team and am still learning the ropes.
 
+##### Keith Low
+Freshman, Engineering
+
+I joined robotics because it requires like no experience and it seemed really fun. A lot of my friends also joined robotics so I thought why not also join. since I would also prefer a job in engineering or something related to that, robotics could help give me some experience.  I like robotics because it can prepare me for jobs, its somewhat easy going, and its enjoyable. Outside of robotics I like to eat, sleep, and stay somewhere warm.
+
+##### Navid Kashem
+Senior, Honorary Head of Engineering
+
+Robotics has been a huge part of my life ever since 5th grade, when I was first introduced to robotics and LEGO Mindstorms. It was in middle school when I was first introduced to FIRST through FLL. From my first competition, I know I wanted to do this for a long time. So, when I came to Stuyvesant, I joined the robotics team. However, I didn’t join Stuy Fission. I joined FRC 694 StuyPulse. I’m now spending my fourth year on the team, and am currently the President of Engineering. My time with FTC starts in junior year when one of our sister teams, FTC 479 Stuy Fusion, was extremely short on members. I joined them, and helped them with their robot as much as possible inside and out of competition. This is when I became attached to FTC. This year, I joined FTC 310 Stuy Fission and work to help the team specifically with engineering and strategy. I hope to put my passion for robotics to use and help this amazing team reach new heights.
+
 ---
 
 #### Coaches and Mentors
@@ -90,14 +100,17 @@ James Lonardo has served our team for over eight years. He attends many of our l
 ##### Joseph Blay
 Coach
 
-Mr. Blay has had a tremendous impact on our team since his own high school years. Mr. Blay was actually a former Stuyvesant High School student, graduating in 2009. While a student, he was a member of our sister team, FRC StuyPulse 694, and now he is a teacher at Stuyvesant (engineering design, precalculus, and technical drawing). His incredible dedication to the team is really an inspiration to us, reminding us, especially the seniors, the importance of coming back and continuing to influence and contribute to the team even after graduation. His presence is also what allows us to have our late night or weekend meetings that are crucial to ensuring that our robot is completed in a timely manner.
-
-This year he has become more committed to helping our team get the furthest we have ever gotten. He has helped us come up with unique ideas for mechanisms, calculate torque and speed to make crucial choices, complete driver try-outs, etc. which will make this season our best yet.
+Mr. Blay has had a tremendous impact on our team since his own high school years. Mr. Blay was actually a former Stuyvesant High School student, graduating in 2009. While a student, he was a member of our sister team, FRC StuyPulse 694, and now he is a teacher at Stuyvesant (engineering design, precalculus, and technical drawing). His incredible dedication to the team is really an inspiration to us, reminding us, especially the seniors, the importance of coming back and continuing to influence and contribute to the team even after graduation. His presence is also what allows us to have our late night or weekend meetings that are crucial to ensuring that our robot is completed in a timely manner. This year he has become more committed to helping our team get the furthest we have ever gotten. He has helped us come up with unique ideas for mechanisms, calculate torque and speed to make crucial choices, complete driver tryouts, etc. 
 
 ##### Levi Olevsky
 Mentor
 
-Levi is a StuyPulse alum, who graduated just last year and now attends New York University. Since then he has come back and continued to work with 694 (our sister FRC team) as well as move more into FTC. He has helped us when weighing the pros and cons of many ideas as well as just being the rock of our team. Levi has become someone that many of us rely on for anything from a friend to a mentor.
+Levi is a StuyPulse alum, who graduated just last year and now attends New York University, majoring Mechanical Engineering. Since then he has come back and continued to work with 694 (our sister FRC team) as well as move more into FTC. He has helped us immensely with prototyping the tape measure mechanism as well as gearing and motor calculations. Levi has become someone that many of us rely on for anything from a friend to a mentor.
+
+##### Noah Tom-Wong
+Mentor
+
+Noah, like Levi, is a StuyPulse alum. He has been mentoring teams since as long as anyone can remember. He is very passionate and is not afraid to say what he thinks. This is a great quality to have as a mentor because that means he is not afraid to tell us what is wrong with whatever we are doing whether that is judge’s meet or our acquirer or newbie education. Noah has been there for us since day one, even mentoring our vice president when she was in FLL. 
 
 ##### Zhengqi Xi
 Mentor
@@ -108,8 +121,3 @@ Zhengqi started as a mentor for us through a Bloomberg program and has been with
 Mentor
 
 Mel has helped us tremendously this year especially in our engineering process. Being a mechanical engineer, he has a very solid foundation and can predict all the faults of our designs. He has been useful when talking about all of our different hanging mechanisms and he has definitely helped us avoid some disastrous design issues. 
-
-##### Rafael Colón
-Former Coach
-
-A noticeable gap in this lineup is our former head coach, Rafael Colón. While Mr. Colón has since retired, we are extremely grateful for all of the hard work, commitment and insights he has given us throughout the years. We are still following many of the precedents that he has set for us, including team-wide meetings at the start of each meeting where everyone, from president to newbie, is able to discuss exactly what we need to accomplish at this meeting.
