@@ -4,7 +4,7 @@ title: Our Team
 permalink: /team/
 header: false
 sidebar_title: Photos
-sidebar_content: Lili.jpg|Lili Boenigk, Megan.jpg|Megan Gupta-She, Arizit.jpg|Arizit Pal, Joe.jpg|Joe Suzuki, Nafid.jpg|Nafis Uddin, Emily.jpg|Emily Tan, default.jpg|Aaron Hsu, Tas.jpg|Tasnuba Sukanna, default.jpg|Henry lin, default.jpg|Kelly Hu, Naomi.jpg| Naomi Naranjo, default.jpg|Marko Zimic, Keith.jpg|Keith Low, default.jpg|Navid Kashem, Lonardo.jpg|James Lonardo, Blay.png|Joe Blay, Levi,png|Levi Olevsky, Noah.png|Noah Tom-Wong
+sidebar_content: Lili.jpg|Lili Boenigk, Megan.jpg|Megan Gupta-She, Arizit.jpg|Arizit Pal, Joe.jpg|Joe Suzuki, Nafis.jpg|Nafis Uddin, Emily.jpg|Emily Tan, default.jpg|Aaron Hsu, Tas.jpg|Tasnuba Sukanna, default.jpg|Henry lin, default.jpg|Kelly Hu, Naomi.jpg| Naomi Naranjo, default.jpg|Marko Zimic, Keith.jpg|Keith Low, default.jpg|Navid Kashem, Lonardo.png|James Lonardo, Blay.png|Joe Blay, Levi.png|Levi Olevsky, Noah.png|Noah Tom-Wong
 content_basedir: team
 ---
 
